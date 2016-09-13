@@ -1,5 +1,5 @@
 # MonSanto_Tracker
-Application Androïd pour tracker les marques utilisant les produits MonSanto (OGM + pesticides).
+Application Android pour tracker les marques utilisant les produits MonSanto (OGM + pesticides).
 
 L'application n'est pas exhaustive et certaines marques n'ont pas souhaité communiquer sur leur provenance ( Marques distributeurs notamment).
 
